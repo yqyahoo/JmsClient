@@ -1,0 +1,5 @@
+serverURL=tcp://localhost:7222
+user=admin
+password=admin
+queues=queue.sample
+count=10
